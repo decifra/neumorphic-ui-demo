@@ -1,4 +1,4 @@
-# neumorphic UI implementation
+# Neumorphic UI implementation
 
 A new Flutter project use Neumorphic design
 
