@@ -4,10 +4,8 @@ A new Flutter project use Neumorphic design
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple clock ui using neumorphic effect
 
-  ![Light mode](https://user-images.githubusercontent.com/53335892/112641185-6d706400-8e42-11eb-8858-dfc5191a580d.png)
+![Light mode](https://user-images.githubusercontent.com/53335892/112759723-989ab500-8ff4-11eb-9656-3b9173f533bf.png)
 
-  ![Dark mode](https://user-images.githubusercontent.com/53335892/112641194-6f3a2780-8e42-11eb-9292-5d3970613c6b.png)
-
-# neumorphic-ui-demo
+![Dark mode](https://user-images.githubusercontent.com/53335892/112759726-99334b80-8ff4-11eb-835e-3d323af86107.png)
